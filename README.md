@@ -1,6 +1,6 @@
 # Grad_CAM_PLUS_PLUS
 
-|原圖|Grad-CAM|Grad-CAM++|
+|original|Grad-CAM|Grad-CAM++|
 |---|---|----
 |<img src="https://github.com/lisssse14/Grad_CAM_PLUS_PLUS/blob/master/image/dog.png" height="224" width="224">|![GCAM](https://github.com/lisssse14/Grad_CAM_PLUS_PLUS/blob/master/image/dog_gcam.jpg)|![GCAM++](https://github.com/lisssse14/Grad_CAM_PLUS_PLUS/blob/master/image/dog_gcam++.jpg)
 |<img src="https://github.com/lisssse14/Grad_CAM_PLUS_PLUS/blob/master/image/n02088364.jpg" height="224" width="224">|![GCAM](https://github.com/lisssse14/Grad_CAM_PLUS_PLUS/blob/master/image/n02088364_gcam.jpg)|![GCAM++](https://github.com/lisssse14/Grad_CAM_PLUS_PLUS/blob/master/image/n02088364_gcam%2B%2B.jpg)
